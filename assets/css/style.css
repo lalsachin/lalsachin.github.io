@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
 #headerwrap {
 	background: url(../img/back_new.jpg) no-repeat center top;
 	margin-top: 0px;
-	padding-top:120px;
+	padding-top:90px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -276,7 +276,6 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 100px;
 	font-weight: bold;
 	text-shadow: 5px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-/*    5px 5px 5px #000;*/
 }
 
 /* About Wrap & Conf */
@@ -289,7 +288,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 }
 .name p {
-	font-size: 22px;
+	font-size: 24px;
 	font-weight: lighter;
 	margin-top: 15px;
 	letter-spacing: 2px;
@@ -314,7 +313,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .name-desc h2 {
 	font-family: 'Oswald', sans-serif;
-	font-size: 40px;
+	font-size: 36px;
 	line-height: 1.45;
 	font-weight: 300;
 }
@@ -361,11 +360,6 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom: solid 2px transparent;
 }
 
-#portfoliowrap .proc:hover {
-	background-color: #eee;
-	border-bottom: solid 2px #2f2f2f
-}
-
 .portfolio {
 	background-image: url(../img/port-sep1.png);
 }
@@ -402,6 +396,8 @@ h1, h2, h3, h4, h5, h6 {
 .service .text {
 	color: #767676
 }
+
+.
 
 /* Testimonials Wrap */
 #testimonials {
